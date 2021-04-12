@@ -6,7 +6,7 @@ Created on Sun Sep 20 12:32:19 2020
 """
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler as sc
-import numpy as np
+import numpy as np #Libreria númerica
 import pandas as pd
 
 filepath="C:/Users/Condominios Manzano/Desktop/Machine Learning/python-ml-course-master/python-ml-course-master/datasets/iris/iris.csv"
