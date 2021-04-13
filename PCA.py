@@ -7,7 +7,7 @@ Created on Sun Sep 20 12:32:19 2020
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler as sc
 import numpy as np #Libreria númerica
-import pandas as pd
+import pandas as pd #Libreria para analisis de datos
 
 filepath="C:/Users/Condominios Manzano/Desktop/Machine Learning/python-ml-course-master/python-ml-course-master/datasets/iris/iris.csv"
 df=pd.read_csv(filepath)
